@@ -11,6 +11,9 @@ button {
     margin: 5px;
     padding: 10px 20px;
     font-size: 1em;
+    background-color: rgb(255, 123, 0);
+    border-radius: 10px;
+    
 }
 
 ul {
@@ -20,4 +23,8 @@ ul {
 
 li {
     margin-bottom: 5px;
+}
+
+body{
+    background-color: rgba(225, 127, 22, 0.684);
 }
